@@ -4,7 +4,7 @@
 ## M.S in Robotics Engineering | Mechanical Design Engineer
 
 <p align="left"> 
- 🔭 Currently, I am working as a research assistant at  <a href="https://www.medibot.kist.re.kr/">Korea Institute of Science and Technology | Center for Healthcare Robotics </a> as well as I`m a master student in the field of Robotic Engineering at  <a href="https://www.ust.ac.kr/eng.do">University of Science and Technology Korea </a>
+ 🔭 I am currently working as a research assistant at  <a href="https://www.medibot.kist.re.kr/">Korea Institute of Science and Technology | Center for Healthcare Robotics </a> as well as I`m a master student in the field of Robotic Engineering at  <a href="https://www.ust.ac.kr/eng.do">University of Science and Technology Korea </a>
 
  ### Reach out to me
 <p align="left">
