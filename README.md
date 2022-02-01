@@ -7,15 +7,6 @@
 
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedIn]
 
-
-<ul class="icons">
-    <a href="https://www.linkedin.com/in/armanc-karakoyun/" class="icon brands fa-linkedin"><span class="label">Linkedin</span></a>
-</ul>	
-				
-
-
-
-
 <br/>
 
 [LinkedIn]: https://www.linkedin.com/in/armanc-karakoyun/
