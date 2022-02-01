@@ -4,13 +4,12 @@
 ## Master Student in Robotics | Mechanical Desing Engineer
 
 ### Reach out to me
-
-<a> <href="https://www.linkedin.com/in/armanc-karakoyun/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ArmancKarakoyun-blue?style=flat&logo=linkedin"></a>
-
+<p align="left">
+<a href="mailto:armanc.karakoyun@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-armanc.karakoyun@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/armanc-karakoyun/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ArmancKarakoyun-blue?style=flat&logo=linkedin"></a>
+</p>
 <br/>
 
-[LinkedIn]: https://www.linkedin.com/in/armanc-karakoyun/
-[Website]:https://armanckarakoyun.github.io/
 
 ### Tech I use
 
