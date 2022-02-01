@@ -3,7 +3,10 @@
 
 ## M.S in Robotics Engineering | Mechanical Design Engineer
 
-### Reach out to me
+<p align="left"> 
+ Currently, I am working as a research assistant at  <a href="https://www.medibot.kist.re.kr/">Korea Institute of Science and Technology | Center for Healthcare Robotics </a> as well as I`m a master student in the field of Robotic Engineering at  <a href="https://www.ust.ac.kr/eng.do">University of Science and Technology Korea </a>
+
+ ### Reach out to me
 <p align="left">
 <a href="mailto:armanc.karakoyun@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-armanc.karakoyun@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/armanc-karakoyun/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ArmancKarakoyun-blue?style=flat&logo=linkedin"></a>
