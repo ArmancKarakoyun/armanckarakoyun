@@ -20,7 +20,9 @@
 
 ### Tech I use
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" width="40" height= "40">
+<code><img height="40" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
+
+
 
 ### Personal Website 
  <p align= "left">
