@@ -1,7 +1,7 @@
 # Hi there, I`m Armanc :wave:
 <img src="https://media.giphy.com/media/phY1SBXy4y4Io/giphy.gif" align="right" width= "250" height="250">
 
-## Master Student in Robotics | Mechanical Desing Engineer
+## Master Student in Robotics Engineering| Mechanical Design Engineer
 
 ### Reach out to me
 <p align="left">
