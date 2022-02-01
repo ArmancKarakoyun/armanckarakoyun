@@ -17,7 +17,7 @@
 
 ## Personal Website
  <p>
-<a href="https://armanckarakoyun.github.io/"><img src="MyLogo+.png"width="40" height= "40" /></a>
+<a href="https://armanckarakoyun.github.io/"><img src="MyLogo+.png"width="80" height= "100" /></a>
  </p>
 
 
