@@ -1,7 +1,7 @@
 # Hi there, I`m Armanc :wave:
 <img src="https://media.giphy.com/media/phY1SBXy4y4Io/giphy.gif" align="right" width= "250" height="250">
 
-## M.S in Robotics Engineering| Mechanical Design Engineer
+## M.S in Robotics Engineering | Mechanical Design Engineer
 
 ### Reach out to me
 <p align="left">
@@ -15,8 +15,8 @@
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" width="40" height= "40">
 
-## Personal Website
- <p>
+### Personal Website 
+ <p align= "left">
 <a href="https://armanckarakoyun.github.io/"><img src="MyLogo+.png"width="80" height= "100" /></a>
  </p>
 
