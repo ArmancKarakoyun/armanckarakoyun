@@ -20,9 +20,13 @@
 
 ### Tech I use
 <p align= "left">
-<img src="SwPro.jpg"width="100" height= "100" /></a>
-<p>
-<code><img height="40" align="center" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
+<a href="https://discover.solidworks.com/solidworks-products"><img src="SwPro.jpg"width="100" height= "100" /></a>
+<a href="https://www.ansys.com/"><img src="Ansyss.jpeg"width="150" height= "100" /></a>
+<img src="Cplusplus_logo.png"width="150" height= "100" /></a>
+
+</p>
+
+
 
 
 
