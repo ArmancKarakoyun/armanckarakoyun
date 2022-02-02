@@ -19,10 +19,12 @@
 
 
 ### Tech I use
+<p align= "left">
+<img src="SW.png"width="100" height= "100" /></a>
 
 <code><img height="40" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
 
-
+<p>
 
 ### Personal Website 
  <p align= "left">
