@@ -19,8 +19,8 @@
 
 
 ### Tech I use
-<p align= "center">
-<img src="sws.png"width="150" height= "50" /></a>
+<p align= "left">
+<img src="SwPro.jpg"width="100" height= "100" /></a>
 
 <code><img height="40" align="center" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /></code>
 
