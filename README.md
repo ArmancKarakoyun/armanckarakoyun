@@ -32,7 +32,7 @@
 
 ### Personal Website 
  <p align= "left">
-<a href="https://armanckarakoyun.github.io/"><img src="MY_Logo.jpg"width="200" height= "250" /></a>
+<a href="https://armanckarakoyun.github.io/index.html"><img src="MY_Logo.jpg"width="200" height= "250" /></a>
  </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=armanckarakoyun&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
